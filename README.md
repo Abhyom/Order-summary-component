@@ -4,7 +4,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Links
 
-- Live Site URL: [Add live site URL here](https://abhyom.github.io/Order-summary-component/)
+- Live Site URL: https://abhyom.github.io/Order-summary-component
 
 ## Table of contents
 

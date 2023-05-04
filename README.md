@@ -2,7 +2,7 @@
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
-### Links
+## Links
 
 - Live Site URL: [Add live site URL here](https://abhyom.github.io/Order-summary-component/)
 
